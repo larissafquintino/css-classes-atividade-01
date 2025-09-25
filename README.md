@@ -1,2 +1,2 @@
-# Resolução do Exercício de Tipos de CSS
+# Resolução do Exercício de Classes em CSS
 
